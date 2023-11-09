@@ -12,17 +12,21 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" /></span>
-&nbsp;
 <span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Angular-282C34?logo=angular&logoColor=DD0031" alt="Angular logo" title="Angular" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/CSharp-282C34?logo=csharp&logoColor=512BD4" alt="csharp logo" title="C Sharp" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Three.js-282C34?logo=three.js&logoColor=FFFFFF" alt="Three.js logo" title="Three.js" height="25" /></span>
+<span><img src="https://img.shields.io/badge/npm-282C34?logo=npm&logoColor=CB3837" alt="npm logo" title="npm" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/SQLite-282C34?logo=sqlite&logoColor=003B57" alt="SQLite logo" title="SQLite" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-282C34?logo=microsoft-sql-server&logoColor=CC2927" alt="Microsoft SQL Server logo" title="Microsoft SQL Server" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" /></span>
 &nbsp;
@@ -30,11 +34,15 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Microsoft%20Azure-282C34?logo=microsoft-azure&logoColor=0078D4" alt="Microsoft Azure logo" title="Microsoft Azure" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio&logoColor=5C2D91" alt="Visual Studio logo" title="Visual Studio" height="25" /></span>
+<span><img src="https://img.shields.io/badge/VS%20Studio-282C34?logo=visual-studio&logoColor=5C2D91" alt="Visual Studio logo" title="Visual Studio" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=2496ED" alt="Docker logo" title="Docker" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=21759B" alt="WordPress logo" title="WordPress" height="25" /></span>
 &nbsp;
