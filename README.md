@@ -70,19 +70,19 @@
   <a href="https://trungquandev.com" target="blank">
     <img width="90" height="90" src="images/logo-trungquandev-transparent-bg-192x192.png" alt="Dungdev-blog" />
   </a>
-  <a href="https://facebook.com/trungquandev" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trungquandev-facebook" />
+  <a href="https://www.facebook.com/profile.php?id=100009209111884" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="Dungdev-facebook" />
   </a>
-  <a href="https://www.youtube.com/c/TrungquandevOfficial" target="blank">
+  <a href="https://www.youtube.com/@dungtien4805" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="Dungdev-youtube" />
   </a>
-  <a href="https://www.linkedin.com/in/trungquandev" target="blank">
+  <a href="https://www.linkedin.com/in/d%C5%A9ng-ti%E1%BA%BFn-856333262" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="Dungdev-linkedin" />
   </a>
   <a href="https://instagram.com/trungquandev" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="Dungdev-instagram" />
   </a>
-  <a href="mailto:trungquandev.official@gmail.com" target="top">
+  <a href="mailto:dungbuivm@gmail.com" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="Dungdev-email" />
   </a>
 </div>
@@ -91,6 +91,6 @@
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
 <a href="#" target="_blank">
-  <img src="svg/Dungdev-quotes.svg" width="846" height="150" alt="trungquandev-official" />
+  <img src="svg/Dungdev-quotes.svg" width="846" height="150" alt="Dungdev-official" />
 </a>
 
