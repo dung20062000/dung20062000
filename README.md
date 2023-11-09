@@ -54,7 +54,7 @@
 <div align=center>
   <a href="#" title="Dungdev">
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dung20062000&layout=pie)](https://github.com/dung20062000/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dung20062000&layout=pie&bg_color=20232a&text_color=ffffff)](https://github.com/dung20062000/github-readme-stats)
     <!-- <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungquandev&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" /> -->
   </a>
   <a href="#" title="Dungdev">
