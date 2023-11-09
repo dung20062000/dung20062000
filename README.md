@@ -68,7 +68,7 @@
 <!-- https://icons8.com -->
 <div align="center">
   <a href="https://trungquandev.com" target="blank">
-    <img width="90" height="90" src="images/logo-trungquandev-transparent-bg-192x192.png" alt="Dungdev-blog" />
+    <img width="90" height="90" src="images/edungvm.jpg" alt="Dungdev-blog" />
   </a>
   <a href="https://www.facebook.com/profile.php?id=100009209111884" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="Dungdev-facebook" />
@@ -79,7 +79,7 @@
   <a href="https://www.linkedin.com/in/d%C5%A9ng-ti%E1%BA%BFn-856333262" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="Dungdev-linkedin" />
   </a>
-  <a href="https://instagram.com/trungquandev" target="blank">
+  <a href="https://www.instagram.com/dungbui4738" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="Dungdev-instagram" />
   </a>
   <a href="mailto:dungbuivm@gmail.com" target="top">
